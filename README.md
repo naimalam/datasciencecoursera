@@ -3,7 +3,7 @@ datasciencecoursera
 
 ##Data Science Coursera
 
-###The following is an Unordered List
+###The following is an Unordered List:
 
 * Item 1
 * Item 2
